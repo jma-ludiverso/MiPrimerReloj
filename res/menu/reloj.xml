@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_24AMPM" android:orderInCategory="100" android:title="@string/menu_action_24AMPM" />
+    <item android:id="@+id/action_Hora" android:orderInCategory="200" android:title="@string/menu_action_HoraActual"/>
+    <item android:id="@+id/action_Config" android:orderInCategory="300" android:title="@string/menu_action_Config"/>    
+</menu>

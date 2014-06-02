@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi primer reloj</string>
+    <string name="menu_action_24AMPM">AM/PM - 24H</string>
+    <string name="menu_action_HoraActual">Hora actual</string>
+    <string name="menu_action_Config">Configuración</string>
+        
+</resources>
